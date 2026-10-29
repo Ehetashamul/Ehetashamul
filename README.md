@@ -1,12 +1,5 @@
-# 👋 Hi, I'm Ehetashamul
+<img width="4032" height="2166" alt="image" src="https://github.com/user-attachments/assets/0e438543-a5c2-48c4-9dd6-5dd6801b8914" />
 
-### ☁️ DevOps Engineer | Azure Cloud | Terraform | CI/CD | Kubernetes | Automation
-
-I am a **DevOps Engineer** focused on building, automating, and improving cloud infrastructure and software delivery workflows.
-
-I work with cloud technologies, Infrastructure as Code (IaC), CI/CD pipelines, containerization, automation, and monitoring solutions to build reliable, scalable, and secure infrastructure.
-
-My primary focus is on **Microsoft Azure, Terraform, Azure DevOps, Kubernetes, Docker, and automation**.
 
 ---
 
@@ -89,14 +82,6 @@ I use GitHub to document my learning, engineering experiments, and practical Dev
 - **Docker & Kubernetes Labs** – Containerization, orchestration, and deployment experiments.
 
 ---
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
 
 ---
 

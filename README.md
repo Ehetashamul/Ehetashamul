@@ -1,7 +1,16 @@
-# 👨‍💻 DevOps Engineer | Azure | Terraform | CI/CD | Docker | Kubernetes
+# 👨‍💻 DevOps Engineer
 
-<!-- Replace with your GitHub profile banner -->
-<img width="100%" src="https://github.com/user-attachments/assets/0e438543-a5c2-48c4-9dd6-5dd6801b8914" alt="GitHub Profile Banner" />
+<h3 align="center">Azure | Terraform | CI/CD | Docker | Kubernetes</h3>
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/0e438543-a5c2-48c4-9dd6-5dd6801b8914"
+    alt="GitHub Profile Banner"
+    width="100%"
+  />
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -35,32 +44,42 @@ I work primarily with Microsoft Azure and Terraform to build, automate, and mana
 
 ### ☁️ Cloud & Infrastructure
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 ### 🔄 DevOps & CI/CD
 
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+</p>
 
 ### 🐳 Containers & Orchestration
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
 
 ### 💻 Programming & Scripting
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+</p>
 
 ### 📊 Monitoring & Observability
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
+</p>
 
 ---
 
@@ -85,32 +104,38 @@ I work primarily with Microsoft Azure and Terraform to build, automate, and mana
 I use GitHub to document my learning, engineering experiments, automation scripts, and practical DevOps implementations.
 
 ### ☁️ Terraform Azure Infrastructure
+
 - Modular Terraform configurations for Azure resource provisioning.
 - Infrastructure deployment and management.
 - Reusable modules and environment-specific configurations.
 
 ### 🔄 Azure DevOps CI/CD Framework
+
 - Reusable YAML pipeline templates.
 - Terraform formatting and validation.
 - Automated security scanning and Terraform planning.
 - Manual approval and controlled deployment stages.
 
 ### 🏗️ Terraform Remote State Architecture
+
 - Azure Storage Account backend configuration.
 - Remote state management and state isolation.
 - Environment separation and scalable state organization.
 
 ### 🔐 DevSecOps Pipeline
+
 - Integration of IaC security scanning tools.
 - Secret detection and vulnerability checks.
 - Security validation as part of CI/CD workflows.
 
 ### 🐍 Python & Bash Automation
+
 - Infrastructure automation scripts.
 - Operational utilities and repetitive task automation.
 - Linux administration and troubleshooting.
 
 ### 🐳 Docker & Kubernetes Labs
+
 - Containerization and image management.
 - Kubernetes fundamentals and orchestration.
 - Application deployment experiments.
@@ -119,14 +144,35 @@ I use GitHub to document my learning, engineering experiments, automation script
 
 ## 📈 GitHub Overview
 
-<!-- GitHub statistics: replace YOUR_GITHUB_USERNAME -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting
+I'm always interested in connecting with DevOps engineers, cloud professionals, developers, and technology enthusiasts.
+
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:etishamkec@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 💡 My Engineering Philosophy
+
+> Automate everything that can be automated. Build infrastructure as code. Secure every deployment. Continuously learn, improve, and engineer better solutions.
+
+<p align="center">
+  ⭐ <strong>Thanks for visiting my profile!</strong> ⭐
+</p>

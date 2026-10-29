@@ -1,6 +1,8 @@
-# 👨‍💻 DevOps Engineer
+## 👨‍💻 DevOps Engineer
 
-<h3 align="center">Azure | Terraform | CI/CD | Docker | Kubernetes</h3>
+<p align="center">
+  Azure | Terraform | CI/CD | Docker | Kubernetes
+</p>
 
 <p align="center">
   <img
@@ -9,6 +11,7 @@
     width="100%"
   />
 </p>
+
 
 ---
 
